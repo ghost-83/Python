@@ -1,0 +1,5 @@
+dbname = 'ghost'
+user = 'postgres'
+password = 'postgres'
+host = '192.168.0.9'
+port = '5432'
